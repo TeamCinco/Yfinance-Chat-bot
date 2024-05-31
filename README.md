@@ -16,3 +16,6 @@ Step four:
 
 Open chatbot directory in terminal in your ide of your choice and then enter:
 "npm run dev"
+
+
+***DONT FORGET YOU NEED AN OPENAI API KEY TO USE THE CHATBOT***
